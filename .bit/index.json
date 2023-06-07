@@ -1,0 +1,13 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "cw-kailas.learning",
+        "name": "themes/base-theme"
+      },
+      "isSymlink": false,
+      "hash": "432005f7af1e6bbe26352e84573eb667036c7253"
+    }
+  ],
+  "lanes": []
+}

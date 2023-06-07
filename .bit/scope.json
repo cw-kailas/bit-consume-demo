@@ -1,0 +1,10 @@
+{
+    "name": "bitconsume",
+    "remotes": {},
+    "version": "1.0.498",
+    "lanes": {
+        "current": "main",
+        "tracking": [],
+        "new": []
+    }
+}
